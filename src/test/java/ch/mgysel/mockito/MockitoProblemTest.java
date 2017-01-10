@@ -9,7 +9,7 @@ import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoProblem {
+public class MockitoProblemTest {
 
 	@Mock
 	private OrmSupport ormSupport;
